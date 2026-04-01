@@ -2,3 +2,4 @@ router ospf 1
  router-id 1.1.1.1
 rotuer bgp 100
  router-id 1.1.1.1
+ip route 0.0.0.0 0.0.0.0 2.2.2.2
